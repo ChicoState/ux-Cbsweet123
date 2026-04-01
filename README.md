@@ -3,4 +3,4 @@
 
 
 # UX Journal
-Note taking with Obsidian 
+[Note taking](note_taking.md) with Obsidian
